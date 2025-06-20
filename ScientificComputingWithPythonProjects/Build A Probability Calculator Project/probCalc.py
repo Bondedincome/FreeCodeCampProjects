@@ -47,14 +47,6 @@ hat1 = Hat( red=2, blue=3, green=1)
 # print(hat1.get_total_balls())  # Should print the total number of balls in the hat
 # print(hat1.contents) # Should print the remaining balls in the hat after drawing
 
-hat = Hat(black=6, red=4, green=3)
-probability = experiment(hat=hat,
-                        expected_balls={'red':2,'green':1},
-                        num_balls_drawn=5,
-                        num_experiments=2000)
-
-print(probability)  # Should print the probability of drawing the expected balls
-
 if __name__ == "__main__":
     # import doctest
     # doctest.testmod()
