@@ -67,5 +67,3 @@ Percentage spent by category
         n     
         g     
 ```
-
-Note: open the browser console with F12 to see a more verbose output of the tests.
