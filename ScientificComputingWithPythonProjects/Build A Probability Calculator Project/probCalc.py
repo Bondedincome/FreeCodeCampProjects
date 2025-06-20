@@ -38,7 +38,7 @@ def experiment(hat, expected_balls, num_balls_drawn, num_experiments):
             success_count += 1
     return success_count / num_experiments
 
-hat1 = Hat( red=2, blue=3, green=1)
+# hat1 = Hat( red=2, blue=3, green=1)
 
 # print(type(hat1.kwargs))  # Should print <class '__main__.Hat'>
 # print(hat1.kwargs)  # Should print <class '__main__.Hat'>
