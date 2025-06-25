@@ -2,8 +2,8 @@
 
 These are a list of my Courses I took on Free Code Camp with my way of doing the projects feel free to look into everything:
 
-- Scientific Computing With Python
-- Relational Database using postgres
+- [Scientific Computing With Python](https://github.com/Bondedincome/FreeCodeCampProjects/tree/main/ScientificComputingWithPythonProjects)
+- [Relational Database](https://github.com/Bondedincome/FreeCodeCampProjects/tree/main/RelationalDatabase) using postgres
 
 ## contact me
 
