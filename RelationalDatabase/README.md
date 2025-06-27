@@ -4,7 +4,7 @@
 
 These are a list of projects tasked to me by FreeCodecamp to get the Certification for the [Relational Databse course](https://www.freecodecamp.org/learn/relational-database/):
 
-- Celestial Bodies Database
+- [Celestial Bodies Database](https://github.com/Bondedincome/FreeCodeCampProjects/tree/main/RelationalDatabase/Build%20a%20celestial%20database)
 - World Cup Database
 - Salon Appointment Scheduler
 - Periodic Table Database
